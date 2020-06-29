@@ -330,8 +330,6 @@ boost/function.hpp
 boost/unordered_map.hpp
 -
 
-/opt/ros/kinetic/include/interactive_markers/visibility_control.hpp
-
 /opt/ros/kinetic/include/ros/advertise_options.h
 ros/forwards.h
 /opt/ros/kinetic/include/ros/ros/forwards.h

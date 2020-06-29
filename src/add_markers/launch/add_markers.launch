@@ -1,0 +1,4 @@
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find add_markers)/../rvizConfig/myRviz.rviz"/>
+  <node name="add_markers" pkg="add_markers" type="add_markers" output="screen"/>
+</launch>
