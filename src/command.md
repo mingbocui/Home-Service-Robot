@@ -25,6 +25,7 @@ run ` pip install rospkg `and then, ` catkin_make`
 $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 $ source ~/.bashrc
 
+cd ~
 mkdir catkin_ws/
 cd catkin_ws/
 mkdir src/
