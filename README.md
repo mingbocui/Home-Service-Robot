@@ -1,8 +1,4 @@
 # Home Service Robots
-sudo apt-get update && apt-get upgrade
-
-sudo apt-get install ros-kinetic-navigation
-
 
 ## Usage
 
@@ -13,7 +9,7 @@ sudo apt-get install ros-kinetic-navigation
 ```
 
 ### Step 2
-- clone to your local space
+- clone the project to your local space
 - run
     ```
     catkin_make
@@ -22,5 +18,5 @@ sudo apt-get install ros-kinetic-navigation
     ./src/scripts/home_service.sh
     ```
 
-### Animations
+### Simulations
 ![image](./src/gif/home_service.gif)
