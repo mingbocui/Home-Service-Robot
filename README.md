@@ -1,5 +1,7 @@
 # Home Service Robots
 
+![image](./src/gif/home_service.gif)
+
 ## Usage
 
 ### Step 1: Update the workspace
@@ -17,6 +19,3 @@ sudo apt-get install ros-kinetic-navigation
     chmod +x ./src/scripts/*
     ./src/scripts/home_service.sh
     ```
-
-### Simulations
-![image](./src/gif/home_service.gif)
